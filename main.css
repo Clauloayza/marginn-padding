@@ -1,0 +1,26 @@
+
+body {
+    background-image: url(5718897981_10faa45ac3_b-640x624.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+div  {
+    text-align: center;
+    background-color:#0d0d0d;
+    margin: 100px;
+    font-size: 50;
+    width: 250px;
+    padding: 20px;
+    font-size: 30px; 
+    border: 7px solid #afacaf;
+    
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 37px;
+    
+}
