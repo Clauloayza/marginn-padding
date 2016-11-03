@@ -1,1 +1,13 @@
-/* Agrega aqui tu CSS */
+div {
+    width: 150px; height: 250px;
+    background-color: white;
+    margin: 15px 60px;
+    padding: 7px;
+}
+
+#titulo {
+    margin-top: 2px;
+    width: 200px;
+    background-color: white;
+    border: 2px orange solid;
+}
